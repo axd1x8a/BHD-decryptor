@@ -16,7 +16,7 @@ Options:
 
 ## Keys
 
-You can get the keys by looking up "BEGIN PUBLIC KEY" in the Elden Ring executable, or just check [BinderKeys](https://github.com/JKAnderson/BinderKeys)
+You can get the keys by looking up "BEGIN RSA PUBLIC KEY" in the Elden Ring executable, or just check [BinderKeys](https://github.com/JKAnderson/BinderKeys)
 
 ## How fast is it?
 
@@ -28,7 +28,6 @@ Loaded key: Data0
 Loaded key: Data1
 Loaded key: Data2
 Loaded key: Data3
-Loaded key: Debug
 Loaded key: DLC
 Loaded key: sd
 Loaded key: sd_dlc02
