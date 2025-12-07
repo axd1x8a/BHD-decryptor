@@ -56,5 +56,5 @@ Done!
 
 ## Credits
 
-- Our lord and savior @JKAnderson for BinderKeys, original BootBoost mod, and general modding wisdom
-- @Dasaav-dsv for pointing out some performance improvements
+- Our lord and savior [JKAnderson](https://github.com/JKAnderson) for BinderKeys, original BootBoost mod, and general modding wisdom
+- [Dasaav-dsv](https://github.com/Dasaav-dsv) for pointing out some performance improvements
